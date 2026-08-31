@@ -1,8 +1,8 @@
+import os
 import certifi
 from sqlalchemy import create_engine
 from sqlalchemy.orm import declarative_base, sessionmaker
-
-DATABASE_URL= "mysql+pymysql://4RimPdtA2vwYdC1.root:D8TkUB5h70rNu6fl@gateway01.ap-southeast-1.prod.aws.tidbcloud.com:4000/test"
+DATABASE_URL = os.getenv("DATABASE_URL")
 
 engine = create_engine(
     DATABASE_URL,
