@@ -1,7 +1,0 @@
-venv
-
-all projects same packages
-
-step 1- setup
-step2- database connection
-step3- 
