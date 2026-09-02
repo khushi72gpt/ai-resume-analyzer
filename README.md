@@ -1,6 +1,6 @@
 # 🚀 AI Resume Analyzer
 
-An intelligent, AI-powered web application that analyzes resumes against job descriptions, provides detailed compatibility scoring, highlights key strengths, identifies skill gaps, and suggests actionable improvements using **Google Gemini AI** and **TiDB Cloud**.
+An intelligent, AI-powered web application that analyzes resumes against job descriptions, provides detailed compatibility, highlights key strengths, identifies skill gaps, and suggests actionable improvements using **Google Gemini AI** and **TiDB Cloud**.
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3.x-000000?style=for-the-badge&logo=flask&logoColor=white)
