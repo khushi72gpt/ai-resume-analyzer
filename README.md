@@ -14,7 +14,7 @@ An intelligent, AI-powered web application that analyzes resumes against job des
 
 - **Automated Parsing**: Parses PDF and DOCX resume files seamlessly.
 - **AI-Powered Analysis**: Leverages Google Gemini AI to evaluate resumes against target job roles.
-- **Match Score & Feedback**: Provides an overall compatibility score, key strengths, missing skills, and formatting recommendations.
+- **Feedback**: Provides key strengths, missing skills, and formatting recommendations.
 - **Database Storage**: Stores user submissions and analysis history securely using SQLAlchemy and TiDB Cloud.
 - **Cloud Ready**: Deployed live on Render with robust environment configuration.
 
